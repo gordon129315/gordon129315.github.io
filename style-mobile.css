@@ -79,8 +79,8 @@ p.header {
 
 p.footer {
     font-size: x-small;
-    margin-bottom: 1px;
-    padding-bottom: 1px;
+    margin: 0;
+    padding: 0;
 }
 
 #splash {
